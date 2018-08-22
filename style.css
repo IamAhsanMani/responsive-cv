@@ -1,0 +1,58 @@
+*{
+    font-family: 'Roboto', sans-serif;   
+}
+.profile{
+    width: 200px;
+    height: 200px;
+    margin:25px 0 0 90px;
+    border-radius: 100px;
+    text-transform: uppercase;
+}
+#name-head{
+    font-size: 60px;
+    margin: 25px 25px 0 0;
+    color: rgb(255, 102, 0);
+    text-transform: uppercase;
+}
+#name-head span{
+    color: gray;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+#para{
+    color: #b7b2b2;
+    margin: 0 0 0 80px;
+    font-weight: bold;
+}
+.legend{
+    text-transform: uppercase;
+    font-size: 26px;
+    color:#000000;
+    text-align: center;
+    /*  padding-left:50%;*/
+}
+.icons{
+    color: rgb(255, 102, 0); 
+    font-size: 20px;
+}
+#mail{
+    text-decoration: none;
+    color:#000000;
+}
+.legend2{
+    font-size: 20px;
+    color: #000000;
+    text-transform: uppercase;
+    text-align: center;
+}
+.skill{
+    padding-left:35px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.language{
+    padding-left: 35%;
+    font-weight: bold;
+    text-transform: capitalize;
+}
